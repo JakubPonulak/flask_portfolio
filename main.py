@@ -3,7 +3,7 @@ import requests, json
 
 from flask import Flask, render_template, request
 
-# create a Flask instance
+# create a Flask instanc
 app = Flask(__name__)
 
 
